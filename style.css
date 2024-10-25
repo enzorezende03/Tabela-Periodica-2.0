@@ -1,0 +1,124 @@
+body{
+    height:750px
+}
+
+table{
+    width: 100%;
+    height: 750px;
+}
+
+td{
+    width: 5.5%;
+    height: 8.3% 
+}
+
+#espaco{
+    border: none;
+}
+
+#metal{
+    background: #d65656;
+}
+
+#alcalino{
+    background: #b0e005;
+}
+
+#unico{
+    background: #2bbe0e;
+}
+
+#laranja{
+    background: #fda500;
+}
+
+#claro{
+    background: #189ec7;
+}
+
+#erde{
+    background: #28d877;
+}
+
+#gre{
+    background: #0f8100;
+}
+
+#mar{
+    background: #e7099d;
+}
+
+#azu{
+    background: #6242f0;
+}
+
+#red{
+    background: #00ffea;
+}
+
+#pik{
+    background: #d41ab5;
+}
+#simbolo{
+    font-size: 25px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#numero{
+inline-size: 15px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#nome{
+    font-size: 15px;
+        text-align: center;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#Hidroborda{
+    border: #2bbe0e 10px solid;
+}
+
+#alcalinoBorda{
+    border:#fda500  10px solid;
+}
+ #naometaisBorda{
+    border:#0f8100 10px solid;
+}
+
+#Haloborda{
+    border: #e7099d 10px solid;
+
+}
+#nobresBorda{
+    border:#6242f0 10px solid;
+}
+#actBorda{
+    border: #d41ab5 10px solid;
+}
+
+#Semiborda{
+    border: #28d877 10px solid;
+
+}
+
+#alcalinoterrBorda{
+    border: #b0e005 10px solid;
+
+}
+
+#LantaBorda{
+    border: #00ffea 10px solid;
+
+}
+#Outrosborda{
+    border: #189ec7 10px solid;
+
+}
+#transiçãoBorda{
+    border: #d65656 10px solid;
+
+
+}
